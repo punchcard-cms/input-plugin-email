@@ -24,7 +24,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "validator": "^5.2.0"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "ava": "^0.16.0",
@@ -39,7 +39,7 @@
     "reparo": "^1.1.1-0",
     "semantic-release": "^4.3.5",
     "tap-diff": "^0.1.1",
-    "validator": "^5.2.0"
+    "validator": "^13.6.0"
   },
   "engines": {
     "node": "^6"
